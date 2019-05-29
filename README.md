@@ -1,2 +1,2 @@
 # curso_fisiques
-Problemas y ccosas en general del curso
+Problemas y cosas en general del curso
